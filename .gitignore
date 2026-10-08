@@ -1,0 +1,31 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/MemoryCaptures/
+/Recordings/
+
+# IDE generated files
+/.vs/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+
+# Local environment and OS files
+/%SystemDrive%/
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
